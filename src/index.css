@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  table,
+  th,
+  td {
+    border: 1px solid;
+    padding: 2px 12px;
+    text-justify: inter-word;
+  }
+}

@@ -1,5 +1,5 @@
-import A4Page from "./Page/A4Page";
-import EditorPage from "./Page/EditorPage";
+import A4Page from "./component/Page/A4Page";
+import EditorPage from "./component/Page/EditorPage";
 
 function App() {
   return (

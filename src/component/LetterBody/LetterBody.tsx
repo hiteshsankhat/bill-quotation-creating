@@ -6,7 +6,7 @@ const LetterBody = () => {
   return (
     <>
       <UpperBody />
-      {/* <MiddleBody /> */}
+      <MiddleBody />
       <LowerBody />
     </>
   );
