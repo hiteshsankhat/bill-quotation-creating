@@ -6,8 +6,8 @@ const LetterBody = () => {
   return (
     <>
       <UpperBody />
-      {/* <MiddleBody />
-      <LowerBody /> */}
+      {/* <MiddleBody /> */}
+      <LowerBody />
     </>
   );
 };
