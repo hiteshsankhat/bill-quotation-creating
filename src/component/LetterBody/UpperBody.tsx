@@ -1,4 +1,4 @@
-import { getCurrentDate } from "../utils/common";
+import { getCurrentDate } from "../../utils/common";
 
 const UpperBody = () => {
   return (
