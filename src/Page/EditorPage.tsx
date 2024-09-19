@@ -1,7 +1,11 @@
 import HeaderEditor from "../Header/HeaderEditor";
 
 const EditorPage = () => {
-  return <HeaderEditor />;
+  return (
+    <>
+      <HeaderEditor />
+    </>
+  );
 };
 
 export default EditorPage;
